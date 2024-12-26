@@ -1,13 +1,18 @@
 ## Zee5 Mod Commands
 
              ---------------------------------------------------------------    
-### .........|| X > V2_Prime MPD Not Supported In This Tool ! [Working On it ] ||.......!
-              --------------------------------------------------------------- 
-### ........ NEED [ Subscription - Acount ] With Any plan
+# Notice
 
-### ........ Use L3 scrpit For Getting Keys
+- Ensure you have a **[Subscription - Account]** with any plan.
+- Use the **L3 script** to retrieve the required keys.
+- Replace the following tools in the `Bin` folder:
+  - `N_m3u8DL-RE`
+  - `ffmpeg`
+  - `mp4decrypt`
 
-### ........ N_m3u8DL-RE , ffmpeg , Mp4decrypt Replace in Bin Folder 
+
+### **Important Note**
+**⚠️ V2_Prime MPD is not supported in this tool! [Working on it]**
 
 
 ### Available Download Formats
