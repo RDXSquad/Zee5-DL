@@ -10,7 +10,7 @@
 
 
 ### **Important Note**
-**⚠️ V2_Prime MPD is not supported in this tool! [Working on it]**
+**⚠️ V2 Prime MPD is not supported in this tool! [Working on it]**
 
 
 ### Available Download Formats
