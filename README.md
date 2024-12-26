@@ -1,2 +1,54 @@
-# Zee5-DL
-Zee5 Mod 
+## Zee5 Mod Commands
+
+             ---------------------------------------------------------------    
+### .........|| X > V2_Prime MPD Not Supported In This Tool ! [Working On it ] ||.......!
+              --------------------------------------------------------------- 
+### ........ NEED [ Subscription - Acount ] With Any plan
+
+### ........ Use L3 scrpit For Getting Keys
+
+### ........ N_m3u8DL-RE , ffmpeg , Mp4decrypt Replace in Bin Folder 
+
+
+### Available Download Formats
+
+- **4K**: Download 2160p video with Dolby Digital Plus & Dolby Atmos & AAC. 
+
+- **HEVC**: Download 1080p H265 video with Dolby Digital Plus & AAC.
+
+- **AVC**: Download 1080p H264 video with Dolby Digital Plus & AAC.
+
+- **HEVC_AT**: Download 1080p H265 video with Dolby Digital Plus & Dolby Atmos & AAC.
+
+- **AVC_AT**: Download 1080p H264 video with Dolby Digital Plus & Dolby Atmos & AAC.
+
+- **HD**: Download 1080p H264 video with AAC (High Profile AVC).
+
+- **HQ**: Download 1080p H265 video with AAC (High Profile HEVC).
+
+- **SD**: Download 720p video with AAC.
+
+- **DV**: Download 2160p video in Dolby Vision with Dolby Digital Plus & Dolby Atmos & AAC.
+
+### Usage Instructions
+
+ - **Format Usage**: [ 4K , DV ,  AVC , HEVC , AVC_AT , HEVC_AT , HD , HQ , SD ]
+
+1. **Check Availability**: First, verify on the site if the content is available in 4K and Atmos.
+2. **Input Requirements**:
+   - Enter the URL for the media.
+   - Provide the MPD (Media Presentation Description).
+   - Enter the decryption key.
+3. **Select Download Mode**: Choose from the available formats listed above.
+4. **Muxing Options**:
+   - If you want to mux after download, set to Yes/No.
+   - If Yes, specify the format for muxing (MP4/MKV).
+   - If No, you will receive an un-muxed file.
+
+### Tools Required
+
+- **N_m3u8DL-RE**: [Download Link](https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.2.1-beta/N_m3u8DL-RE_Beta_win-x64_20240828.zip)
+- **Mp4decrypt**: [Download Link](https://www.bok.net/Bento4/binaries/Bento4-SDK-1-6-0-641.x86_64-microsoft-win32.zip)
+- **FFmpeg**: [Download Links](https://www.ffmpeg.org/download.html) and [Alternative Source](https://sourceforge.net/projects/tumagcc/files/converters/ffmpeg.exe/download)
+
+--- 
