@@ -1,6 +1,4 @@
-## Zee5 Mod Commands
-
-             ---------------------------------------------------------------    
+  
 # Notice
 
 - Ensure you have a **[Subscription - Account]** with any plan.
