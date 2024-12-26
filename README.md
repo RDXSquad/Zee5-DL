@@ -52,6 +52,5 @@
 
 - **N_m3u8DL-RE**: [Download Link](https://github.com/nilaoda/N_m3u8DL-RE/releases/download/v0.2.1-beta/N_m3u8DL-RE_Beta_win-x64_20240828.zip)
 - **Mp4decrypt**: [Download Link](https://www.bok.net/Bento4/binaries/Bento4-SDK-1-6-0-641.x86_64-microsoft-win32.zip)
-- **FFmpeg**: [Download Links](https://www.ffmpeg.org/download.html) and [Alternative Source](https://sourceforge.net/projects/tumagcc/files/converters/ffmpeg.exe/download)
+- **FFmpeg**: [Download Links](https://www.ffmpeg.org/download.html) and [Source 2](https://sourceforge.net/projects/tumagcc/files/converters/ffmpeg.exe/download)
 
---- 
